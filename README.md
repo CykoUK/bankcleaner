@@ -52,3 +52,4 @@ Please create an issue under the Issues tab.
 
 # Thanks
 A big thank you to [McGeer](https://github.com/mcgeer/) for the plugin base that was used and adapted to make this plugin.
+A second big thanks to the clan Neverland
