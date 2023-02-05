@@ -5,14 +5,14 @@ Plugin to help clean and store away items to save bank space.
 # How it works
 After the player visits their Bank the plugin places a yellow caution sign, and tooltip on the items in their bank which could be stored elsewhere.
 
-Additionally a panel can be seen on the right-hand side of RuneLite by selecting the yellow caution sign. This shows a list of all of the items, a count of the items which may be wasting your banks space, and finally a list of further tips to save bank space.
+Additionally, a panel can be seen on the right-hand side of RuneLite by selecting the yellow caution sign. This shows a list of all of the items, a count of the items which may be wasting your banks space, and finally a list of further tips to save bank space.
 
 You must view your bank while the plugin is enabled for it to register what items you have. This data does not persist between client sessions so closing the client will require you to redo this step.
 
 # Configuration
-All of the following configurations are enabled by default.
+All the following configurations are enabled by default.
 ### PoH Clue Item Storage
-Check all items which can be stored in the PoH Teasure Chests.
+Check all items which can be stored in the PoH Treasure Chests.
 
 ### Seed Box/Vault
 Check all seeds and saplings (which are in the grown state).
@@ -27,7 +27,7 @@ Check all keys which can go on the Steel Key Ring, One Small Favour reward.
 Check all items which can be stored at a tool leprechaun.
 
 ### Master Scroll Book
-Check for all Master Scroll Book storable teleport scrolls.
+Check for Master Scroll Book teleport scrolls.
 
 ### Fossil Storage
 Check for any unidentified or identified fossils which can be stored on Fossil Island OR in the Varrock Museum.
